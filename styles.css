@@ -1,0 +1,71 @@
+body{
+    font-size: 14px;
+}
+
+
+.titlebar{
+    padding: 10px;
+    text-align: right;
+}
+
+.titlebar a{
+    color:#000;
+    margin: 20px 10px;
+    padding: 10px 0;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    margin-left: 50%;
+    transform: translateX(-50%);
+    align-items: center;
+    text-align: center;
+}
+
+form input{
+    padding: 8px;
+    border-radius: 25px;
+    border: 1px solid lightgrey;
+    border-width: 1px;
+    width: 90%;
+    margin: 20px;
+}
+
+form button{
+    padding: 6px 11px;
+    background-color: #f8f9fa;
+    border: none;
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    background-color: #f2f2f2;
+    color:rgba(0,0,0,.54);
+    font-size: 14px;
+}
+
+.country{
+    border-bottom: 1px solid #dadce0;
+    padding: 10px 25px;
+    font-size: 15px;
+}
+
+.co2{
+    text-align: center;
+    padding: 10px 0;
+}
+
+.bottom{
+    padding: 15px 25px;
+}
+
+.bottom a{
+    margin-right: 20px;
+}
